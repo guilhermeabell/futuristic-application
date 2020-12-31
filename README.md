@@ -1,6 +1,6 @@
 We'll build a lightweight, animated & responsive small website.
 
-# :flag:
+# ap
 
 ## Aplication for NextJS, FramerMotion, TailwindCSS . . .
 
