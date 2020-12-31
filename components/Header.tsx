@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
+
 import Link from 'next/link'
 
 const Header: React.FC = () => {

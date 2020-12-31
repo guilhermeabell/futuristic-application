@@ -1,5 +1,4 @@
 import { AnimateSharedLayout } from 'framer-motion'
-
 import '../styles/tailwind.css'
 import '../styles/globals.css'
 

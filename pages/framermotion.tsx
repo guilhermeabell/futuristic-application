@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion'
 import Link from 'next/link'
-
 const MotionPage: React.FC = () => {
   return (
     <div className="flex flex-col items-center">
